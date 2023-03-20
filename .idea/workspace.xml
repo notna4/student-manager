@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d0b1d28-e50b-405b-94d0-25494646ec67" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/studentmanager/ViewStudents.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8d0b1d28-e50b-405b-94d0-25494646ec67" name="Changes" comment="SM-2 Implemented the Student model class.">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/studentmanager/ViewStudents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/studentmanager/ViewStudents.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +85,14 @@
       <updated>1679328626442</updated>
       <workItem from="1679328627955" duration="6000" />
     </task>
+    <task id="LOCAL-00001" summary="SM-2 Implemented the Student model class.">
+      <created>1679330507016</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679330507016</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,5 +117,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SM-2 Implemented the Student model class." />
+    <option name="LAST_COMMIT_MESSAGE" value="SM-2 Implemented the Student model class." />
   </component>
 </project>
