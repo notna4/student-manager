@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d0b1d28-e50b-405b-94d0-25494646ec67" name="Changes" comment="Updated with the new fxml file.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/studentmanager/ ViewStudentsController.fxml" afterDir="false" />
+    <list default="true" id="8d0b1d28-e50b-405b-94d0-25494646ec67" name="Changes" comment="Updated with the new fxml file part2.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="feature/SM_2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -108,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679331204364</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated with the new fxml file.">
+      <created>1679331765827</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679331765827</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated with the new fxml file part2.">
+      <created>1679331859879</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679331859879</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +150,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="SM-2 Implemented the Student model class." />
     <MESSAGE value="Updated with the new fxml file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated with the new fxml file." />
+    <MESSAGE value="Updated with the new fxml file part2." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated with the new fxml file part2." />
   </component>
 </project>
