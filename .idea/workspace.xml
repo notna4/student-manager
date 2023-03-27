@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d0b1d28-e50b-405b-94d0-25494646ec67" name="Changes" comment="Updated with the new fxml file part2.">
+    <list default="true" id="8d0b1d28-e50b-405b-94d0-25494646ec67" name="Changes" comment="Updated with the new fxml file part4.X DDD">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -51,6 +51,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/laure/OneDrive/Desktop/Misc/Poli/CO/COlab",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -121,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679331859879</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated with the new fxml file part4.X DDD">
+      <created>1679332450126</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679332450126</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +159,7 @@
     <MESSAGE value="SM-2 Implemented the Student model class." />
     <MESSAGE value="Updated with the new fxml file." />
     <MESSAGE value="Updated with the new fxml file part2." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated with the new fxml file part2." />
+    <MESSAGE value="Updated with the new fxml file part4.X DDD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated with the new fxml file part4.X DDD" />
   </component>
 </project>
