@@ -32,6 +32,7 @@ public class CSSstuff {
 .table-row-cell:odd{
         -fx-background-color: -fx-table-cell-border-color, #c5ff4e;
         -fx-background-insets: 0, 0 0 1 0;
+
     }
 
 .table-row-cell:selected {
