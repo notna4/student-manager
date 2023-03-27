@@ -55,4 +55,4 @@ studentLastNameColumn.setCellValueFactory(new PropertyValueFactory<>("lastName")
                     new Student("Michelle", "Roberts", 22, 7.65)
                     );
                     }
-             //Cristi
+             //cam somezi cristi,te dau pe mana HR ului
