@@ -40,5 +40,5 @@ public class CSSstuff {
         -fx-background-insets: 0;
         -fx-background-radius: 1;
     }
-
+            //Crvena Zvezda>>>Partizan
 }
