@@ -5,12 +5,12 @@ public class ViewStudents {
     private String lastName;
     private int age;
     private double meanGrade;
-    public Student(String firstName, String lastName, int age, double meanGrade) {
+   /* public Student(String firstName, String lastName, int age, double meanGrade) {
         this.firstName=firstName;
         this.lastName=lastName;
         this.age=age;
         this.meanGrade=meanGrade;
-    }
+    }*/
 
     @Override
     public String toString() {
@@ -21,12 +21,13 @@ public class ViewStudents {
     @Override
     public boolean equals(Object o) {
         //equals generated implementation
+        return false;
     }
 
     @Override
     public int hashCode() {
-
+     return 0;
     }
     }
 
-}
+

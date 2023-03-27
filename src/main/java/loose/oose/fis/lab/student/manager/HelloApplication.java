@@ -15,6 +15,7 @@ public class HelloApplication extends Application {
         primaryStage.setTitle("FIS - Student Manager");
         primaryStage.setScene(new Scene(root, 600, 400));
         primaryStage.show();
+        PontRomania_Belarus a=new PontRomania_Belarus();
     }
 
 
